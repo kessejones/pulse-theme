@@ -8,7 +8,7 @@
     "activityBar.foreground": "#5e5e6f",
     "activityBarBadge.background": "#368add",
     "activityBarBadge.foreground": "#f2f2f2",
-    "editorLineNumber.foreground": "#2f2f38",
+    "editorLineNumber.foreground": "#adadad",
     "editorLineNumber.activeForeground": "#f2f2f2",
     "badge.background": "#368add",
     "badge.foreground": "#fff",

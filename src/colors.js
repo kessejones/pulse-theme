@@ -19,7 +19,7 @@ module.exports = ({
   'activityBar.foreground': comment,
   'activityBarBadge.background': darken(0.2, blue),
   'activityBarBadge.foreground': foreground,
-  'editorLineNumber.foreground': darken(0.2, comment),
+  'editorLineNumber.foreground': '#adadad',
   'editorLineNumber.activeForeground': foreground,
 
   // badge
